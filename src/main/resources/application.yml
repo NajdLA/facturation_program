@@ -1,0 +1,14 @@
+spring-application:
+  name: facturation-client-ekwateur
+
+high-pro-client:
+  gaz-price: 0.114
+  electricity-price: 0.111
+
+low-pro-client:
+  gaz-price: 0.118
+  electricity-price: 0.113
+
+particular-client:
+  gaz-price: 0.121
+  electricity-price: 0.115
